@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello, I'm Marco, nice to meet you!
 
-<!--
-**cruz-marco/cruz-marco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer from Rio de Janeiro - Brazil, with a passion for technology since always and an assiduous student about it.
 
-Here are some ideas to get you started:
+When I was in college, I've saw a lot of value in data and decided to have a specialization in this subject. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Today, I can make **data analysys**, **data base management**, develop and evaluate **supervised** and **unsupervised machine learning models** under the **CRISP-DM** framework.
+
+I also make some **back-end** and **front-end** coding, you can see some on my repositories.
+
+
+Challenge is what drives me.
+
+[My LinkTree](https://linktr.ee/cruz.marco.rj) for contact.
+
+### Powered by:
+![Python](https://cruz-marco.github.io/resumee/icons/pitao.png) ![Java](https://cruz-marco.github.io/resumee/icons/java.png) ![PHP](https://cruz-marco.github.io/resumee/icons/php.png) ![SQL](https://cruz-marco.github.io/resumee/icons/base-de-dados.png) ![Machine Learning](https://cruz-marco.github.io/resumee/icons/machine-learning.png) ![HTML5](https://cruz-marco.github.io/resumee/icons/html5.png) ![CSS3](https://cruz-marco.github.io/resumee/icons/css-3.png) 
