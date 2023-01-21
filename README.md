@@ -21,7 +21,7 @@ Main Skills:
 - Supervised models development and assessment (regression and classification)
 - Unsupervised models development and assessment (clustering, recommenders, dimension reduction)
 - Business Intelligence
-- RESTful
+- RESTful API
 - CRISP-DM
 - Pandas
 - Scikit-Learn
