@@ -11,7 +11,7 @@ I also make some **back-end** and **front-end** coding, you can see some on my r
 
 Challenge is what drives me.
 
-This is my [LinkTree](https://linktr.ee/cruz.marco.rj) for other contact channels.
+This is my [LinkTree](https://linktr.ee/cruz.marco.rj) for other contact channels and infos.
 
 Main Skills:
 - Data analysis
