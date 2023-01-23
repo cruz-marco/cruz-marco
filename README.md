@@ -1,8 +1,8 @@
-## Hello, I'm Marco, nice to meet you!
+## Hello There! I'm Marco, nice to meet you!
 
 I'm a developer from Rio de Janeiro - Brazil, with a passion for technology since always and an assiduous student about it.
 
-When I was in college, I've saw a lot of value in data and decided to have a specialization in this subject. 
+When I was in college, I saw a lot of value in data and decided to have a specialization in this subject. 
 
 Today, I can make **data analysys**, **data base management**, develop and evaluate **supervised** and **unsupervised machine learning models** under the **CRISP-DM** framework.
 
@@ -11,7 +11,7 @@ I also make some **back-end** and **front-end** coding, you can see some on my r
 
 Challenge is what drives me.
 
-This is my [LinkTree](https://linktr.ee/cruz.marco.rj) for other contact.
+This is my [LinkTree](https://linktr.ee/cruz.marco.rj) for other contact channels.
 
 Main Skills:
 - Data analysis
