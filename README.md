@@ -1,4 +1,4 @@
-## Hello There! I'm Marco, nice to meet you!
+## Hello there! I'm Marco, nice to meet you!
 
 I'm a developer from Rio de Janeiro - Brazil, with a passion for technology since always and an assiduous student about it.
 
